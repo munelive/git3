@@ -11,3 +11,7 @@ This is master contentt
 
 
 More content from cabecera
+<<<<<<< HEAD
+=======
+This is cabecera content
+>>>>>>> cabecera
